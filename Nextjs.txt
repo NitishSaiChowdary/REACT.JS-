@@ -1,0 +1,7 @@
+for create next js project we need run the commad
+
+npx create-next-app@latest
+
+Routing : next js Routing instead of React Routing 
+
+-> File Based Routing

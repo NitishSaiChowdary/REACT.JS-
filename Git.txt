@@ -1,0 +1,27 @@
+GIthub - One example of remote repository hosting servers
+
+
+remote repository
+
+local repository
+
+staging area
+
+working dict
+
+////git command 
+
+git init 
+git status
+
+git add 
+
+git commit
+git remote add origin https://github.com/NitishSaiChowdary/Spring-boot-project.git
+
+git push -u origin master 
+
+creating branch 
+git checkout -b "copy2"
+
+

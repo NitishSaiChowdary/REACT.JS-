@@ -1,0 +1,10 @@
+.group:hover .absolute {
+    transform: scale(1);
+    transition: transform 0.3s ease;
+  }
+  
+  .absolute {
+    transform: scale(0.75);
+    transition: transform 0.3s ease;
+  }
+  
